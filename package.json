@@ -1,0 +1,24 @@
+{
+  "name": "friends-finder",
+  "version": "1.0.0",
+  "description": "Find new friends!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloommax3/friends-finder.git"
+  },
+  "author": "Max Bloom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloommax3/friends-finder/issues"
+  },
+  "homepage": "https://github.com/bloommax3/friends-finder#readme"
+}
